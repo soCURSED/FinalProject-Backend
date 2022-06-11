@@ -4,6 +4,17 @@ I have finished the Backend part in Tuwaiq FullStack Bootcamp, in this project I
 The project is called E-commerce Backend, it is a backend system with over 16 end points. There is a User, Cart and Product.
 
 
+**Postman:**
+https://documenter.getpostman.com/view/21096361/Uz5NjD76
+Also a local file is attached with the project to run in your pc
+
+
+**Heroku:**
+Will not start because there is no database linked (reason: I don't know how to do it)
+https://finalproject-faisal.herokuapp.com/
+
+
+
 **User:**
 - Register
 - Login
