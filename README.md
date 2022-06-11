@@ -1,6 +1,6 @@
-**E-commerce Backend Final Project**
+**E-commerce Backend Final Project in Java Spring Boot**
 
-I have finished the Backend part in Tuwaiq FullStack Bootcamp, in this project I put all the knowledge and skills I gain there. 
+I have finished the Backend Java Spring Boot part in Tuwaiq FullStack Bootcamp, in this project I put all the knowledge and skills I gain there. 
 The project is called E-commerce Backend, it is a backend system with over 16 end points. There is a User, Cart and Product.
 
 
