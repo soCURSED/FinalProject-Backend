@@ -1,7 +1,8 @@
 **E-commerce Backend Final Project**
 
-I have fininshed the Backend part in Tuwaiq FullStack Bootcamp, in this project I put all the knolage and skills I gain there. 
+I have finished the Backend part in Tuwaiq FullStack Bootcamp, in this project I put all the knowledge and skills I gain there. 
 The project is called E-commerce Backend, it is a backend system with over 16 end points. There is a User, Cart and Product.
+
 
 **User:**
 - Register
@@ -31,12 +32,7 @@ The project is called E-commerce Backend, it is a backend system with over 16 en
 
 
 
-**Project requirements:**
-- At least 10 endpoints
-- At least 3 table relationships
-- Include all CRUD operations (Create, Read, Update, Delete)
-- Login & register
-- Hosted on heroku
+
 
 **Dependancies:**
 - Spring web
@@ -45,6 +41,7 @@ The project is called E-commerce Backend, it is a backend system with over 16 en
 - JPA
 - Spring security
 - MySQL
+
 
 **Layers used:**
 - Controller layer
