@@ -21,7 +21,7 @@ Also a local file is attached with the project to run in your pc
 
 Will not start because there is no database linked (reason: I don't know how to do it)
 
-https://finalproject-faisal.herokuapp.com/
+https://faisalprojectfinal.herokuapp.com/
 
 ///////
 
