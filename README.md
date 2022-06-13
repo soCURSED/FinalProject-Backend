@@ -46,7 +46,9 @@ https://faisalprojectfinal.herokuapp.com/
 
 
 **Class Diagram:**
-![chrome_2aIAdA5qyc](https://user-images.githubusercontent.com/45186916/173199296-4588ec11-5724-4df5-bede-7cf333d501f0.png)
+
+![chrome_PVDZoFQ7bV](https://user-images.githubusercontent.com/45186916/173392103-a205680e-ffda-4c66-9fb2-427b73aee778.png)
+
 
 
 
